@@ -1,0 +1,15 @@
+{
+  "name": "hardware-sentinel-6267",
+  "version": "1.0.0",
+  "description": "Deterministic host telemetry and compute headroom intelligence service for autonomous agents.",
+  "tools": [
+    {
+      "name": "service_status",
+      "description": "Get current status and computations from this autonomous service",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  ]
+}
